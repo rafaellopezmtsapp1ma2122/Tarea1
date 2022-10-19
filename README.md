@@ -6,9 +6,9 @@
 - El ==jugador== tendrá una pantalla para elejir la dificultad
 - Podra resetear las ==imagenes==
 ### Tareas
--[] Interfaz
--[] Codigo
--[x] Repositorio remoto
+- [ ] Interfaz
+- [ ] Codigo
+- [x] Repositorio remoto
 
 1. ~~Generar el proyecto~~
 2. ~~Generar el repositorio~~
@@ -18,12 +18,12 @@ Hola~5~Adios
 Hola^5^
 
 
-´
+
 #### Este *proyecto* está realizado en **SWIFT**import UIKit
 ---
 >Ejemplo de codigo
 
-class ViewController: UIViewController {
+`class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -35,14 +35,13 @@ class ViewController: UIViewController {
 
    
 
-}
-´
+}`
 
-```
+
 #### Este *proyecto* está realizado en **SWIFT**import UIKit
 ---
 >Ejemplo de codigo
-
+```
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
@@ -64,9 +63,9 @@ class ViewController: UIViewController {
 
 [^1]: La nota de pie.
 
-| Esto es | una tabla |
+| Tareas| Ejercicios |
 | ------- | ------- |
-| con | separadores |
-| filas | y | columnas |
+| 1 | 2 |
+| 3 | 4 | 5 |
 
 :computer:
