@@ -59,7 +59,7 @@ class ViewController: UIViewController {
 
 
 [Link repositorio](https://github.com/rafaellopezmtsapp1ma2122/Tarea1)
-[Imagen](images.jpeg)
+[Imagen](https://www.tooltyp.com/wp-content/uploads/2014/10/1900x920-8-beneficios-de-usar-imagenes-en-nuestros-sitios-web.jpg)
 
 [^1]: Rakifi
 
