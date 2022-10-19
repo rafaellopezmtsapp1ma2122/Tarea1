@@ -60,8 +60,8 @@ class ViewController: UIViewController {
 
 [Link repositorio](https://github.com/rafaellopezmtsapp1ma2122/Tarea1)
 [Imagen]()
-
-[^1]: La nota de pie.
+Creado por:[^1]
+[^1]: Rakifi
 
 | Tareas| Ejercicios |
 | ------- | ------- |
